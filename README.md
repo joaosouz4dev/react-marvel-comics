@@ -9,7 +9,7 @@ This is a sample React app which demonstrates how to use the marvel API with Red
 published by [vercel](https://vercel.com/)
 
 <p align="center">
-  <a href="react-marvel-comics.vercel.app">Click here to view</a>
+  <a href="https://react-marvel-comics.vercel.app">Click here to view</a>
 </p>
 
 ## Important

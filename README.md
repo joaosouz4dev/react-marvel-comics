@@ -4,6 +4,14 @@
 
 This is a sample React app which demonstrates how to use the marvel API with Redux and sagas to show a list of marvel characters and a list of comic books for each character.
 
+## Demo
+
+published by [vercel](https://vercel.com/)
+
+<p align="center">
+  <a href="react-marvel-comics.vercel.app">Click here to view</a>
+</p>
+
 ## Important
 
 Because the Marvel API limit our request to **3000 requests** a day, maybe the demo page will not work depend how much users are trying to run, if you can run this demo, install this project in your machine and use [your own API keys](https://developer.marvel.com/documentation/getting_started) from marvel
